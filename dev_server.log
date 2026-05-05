@@ -1,0 +1,18 @@
+
+> temp-app@0.1.0 dev
+> next dev
+
+▲ Next.js 16.2.3 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.0.2:3000
+✓ Ready in 516ms
+
+○ Compiling / ...
+ HEAD / 200 in 5.4s (next.js: 4.5s, application-code: 904ms)
+ GET / 200 in 182ms (next.js: 12ms, application-code: 170ms)
+ GET / 200 in 135ms (next.js: 4ms, application-code: 131ms)
+ GET /about 200 in 1254ms (next.js: 1016ms, application-code: 238ms)
+ GET /courses 200 in 1153ms (next.js: 900ms, application-code: 253ms)
+ GET /gallery 200 in 1183ms (next.js: 988ms, application-code: 195ms)
+ GET /contact 200 in 1153ms (next.js: 921ms, application-code: 232ms)
+✓ Compiled in 258ms
